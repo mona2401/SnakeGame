@@ -17,3 +17,11 @@ Windows PowerShell
 Copyright (C) Microsoft Corporation. All rights reserved.
 
 PS C:\WINDOWS\system32> pip install pygame
+
+
+
+
+before that you have to install the software
+
+
+Here is the link: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame
